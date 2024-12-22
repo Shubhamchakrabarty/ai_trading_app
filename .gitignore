@@ -1,0 +1,14 @@
+# Ignore Flutter SDK folder
+mobile/flutter/
+
+# Ignore generated files
+mobile/linux/flutter/generated_plugin_registrant.cc
+mobile/linux/flutter/generated_plugin_registrant.h
+mobile/linux/flutter/generated_plugins.cmake
+mobile/macos/Flutter/GeneratedPluginRegistrant.swift
+mobile/windows/flutter/generated_plugin_registrant.cc
+mobile/windows/flutter/generated_plugin_registrant.h
+mobile/windows/flutter/generated_plugins.cmake
+
+# Ignore Flutter-specific lock file (optional)
+mobile/pubspec.lock
