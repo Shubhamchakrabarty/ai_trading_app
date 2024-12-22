@@ -12,3 +12,5 @@ mobile/windows/flutter/generated_plugins.cmake
 
 # Ignore Flutter-specific lock file (optional)
 mobile/pubspec.lock
+
+web/node_modules/
